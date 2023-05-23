@@ -43,10 +43,12 @@ img{
     max-width: 80vw;
     margin: 0 auto;
     padding: 80px 0;
+    justify-content: space-between;
 }
 
 .conteiner > div{
     flex: 1 1 250px;
+    max-width: 320px;
     margin: 30px;
     border: solid 10px white;
     border-radius: 10px;
